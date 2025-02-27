@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Bhuwan Data",
   "license": "ISC",
-  "description": "This is week 5 lab task.",
+  "description": "This is new api for week 5 lab task.",
   "dependencies": {
     "@faker-js/faker": "^9.5.0",
     "express": "^4.21.2",
